@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Yuhnosuke/react-tutorial-by-tania-rascia/static/css/main.9010bc3a.css",
+    "main.js": "/Yuhnosuke/react-tutorial-by-tania-rascia/static/js/main.616d036d.js",
+    "index.html": "/Yuhnosuke/react-tutorial-by-tania-rascia/index.html",
+    "main.9010bc3a.css.map": "/Yuhnosuke/react-tutorial-by-tania-rascia/static/css/main.9010bc3a.css.map",
+    "main.616d036d.js.map": "/Yuhnosuke/react-tutorial-by-tania-rascia/static/js/main.616d036d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9010bc3a.css",
+    "static/js/main.616d036d.js"
+  ]
+}
